@@ -1,4 +1,4 @@
-# VedEx-Assignment-CRUD-RESTApi
+# CRUD-RESTApi
 Updating order, users and products using a restful api. 
 
 ## Steps to Run the Project
